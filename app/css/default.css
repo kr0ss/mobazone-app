@@ -12,6 +12,16 @@ select a,
 textarea a {
   outline: none;
 }
-div.top {
-  background: red;
+header div.navbar-inner div.container h1 {
+  color: #fff;
+}
+section.home {
+  padding-top: 121px;
+}
+section.home form {
+  margin-bottom: 60px;
+}
+section.home div.result h1 {
+  text-transform: uppercase;
+  margin-bottom: 30px;
 }
